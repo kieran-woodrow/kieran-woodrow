@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kieran-woodrow
 
-- 🚀 I've dabbled in a lot. From writing assembly code for mathamatical calculations, to using python and Jupyter notebook for AI for facial recognition, to building data structures like BPlus trees from scratch in Java, to 3D graphics in Javascript and HTML to visully see the changes, to implementing design patterns in C++, to having complex sql quereies and database dumps, to having a Hero App in iOS and Swift. My profile has all the source code to the stuff i've played arpund with.
+- 🚀 I've dabbled in a lot. From writing assembly code for mathamatical calculations, to using python and Jupyter notebook for AI for facial recognition, to building data structures like BPlus trees from scratch in Java, to 3D graphics in Javascript and HTML to visully see the changes, to implementing design patterns in C++, to having complex sql quereies and database dumps, to having a Hero App in iOS and Swift. My profile has all the source code to the stuff i've played around with.
 
 - 👀 Currently where i am at in my career. I love what i do. I'm a native iOS developer. I love using the latest and greatest technology that Apple is pushing innovation such as SwiftUI, VisionPro etc.
 
