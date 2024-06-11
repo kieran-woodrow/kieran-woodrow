@@ -6,10 +6,8 @@
 
 - 🌱 I started my tech journey in university when i chose to study computer science and applied maths. It opened my eyes and i got to explore a glimpse of all the tech world has to offer. Throughout my studies, we delved into cyber security, AI/ML, backend systems, frontend systems, database engineering, optimisation with algorithms, the world of networking, game development and computer graphics, a lot of math models and applications of maths. I took a deep interest in the AI/ML world.
 
-I have always admired Apple and their push for innovation, so I decided to delve into it and become an iOS fanboy. I fully enjoyed it and decided started my professional career as an iOS developer. I am now an intermediate iOS mobile engineer. I have been at a company who is on the cutting edge with using SwiftUI. But i am hungry for more. 
-
-However, I am not limiting myself specifically to iOS. I consider myself as a software engineer, so to me, I strive to not be technology specific driven, but solution driven to a presented problem. One of the first apps I built was with a team of 5 that aimed to solve an educational problem. So we built an educational app and website that aimed to enhance the learning process. The app was built around the idea of using AR/VR technology with 3D models that users could see on the screen of their device. Flutter was the tech used as the solution for this multi-platform problem.
-
+- 📍 I have always admired Apple and their push for innovation, so I decided to delve into it and become an iOS fanboy. I fully enjoyed it and decided started my professional career as an iOS developer. I am now an intermediate iOS mobile engineer. I have been at a company who is on the cutting edge with using SwiftUI. But i am hungry for more.  However, I am not limiting myself specifically to iOS. I consider myself as a software engineer, so to me, I strive to not be technology specific driven, but solution driven to a presented problem.
+- 
 <!---
 kieran-woodrow/kieran-woodrow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
